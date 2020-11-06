@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Bio Sktech"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -56,5 +56,5 @@ Awards
 ======
 * Secured 6th Rank in National Science Talent Search Examination at National level
 * Google Conference Grant for the recent ECCV 2020 Spotlight paper
-* Secured 2nd place at Technical Paper Presentation organized by KLE College,, India
+* Secured 2nd place at Technical Paper Presentation organized by KLE College, India
 * Secured 2nd Place at Hackathon organized by KLE College, India
