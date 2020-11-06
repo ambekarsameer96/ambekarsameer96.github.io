@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Bio Sktech"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,30 +11,24 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* BTech in Computer Science and Engineering, VTU, 2018
 
-Work experience
+Research experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* January 2019 : Research Assistant
+  * IIT Delhi
+  * Guide: Prof. Prathosh A.P
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* June 2018 : Reseacher
+  * Indian Council of Medical Research (ICMR)
+  * Guide : Dr. Subarna Roy (Scientist F) and Mr. Pramod Kumar (Scientist C)
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages : Python , C, C++, Matlab
+* Machine learning / Deep learning : Tensorflow, KEras, PyTorch, numpy
+* Computer Vision : OpenCV, PIL 
+* Tools : LaTeX, Google CLoud Platform (GCP), Google Analytics, git, Ubuntu bash scripting
 
 Publications
 ======
@@ -42,18 +36,25 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+
+Machine Learning schools / Bootcamps attended
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* Oxford Machine Learning Summer School (OxML 2020), Deep Learning, University of Oxford (Virtually) (Acceptance rate: 11%) (Scholarship awarded)
+* Machine Learning Summer School - Indonesia (MLSS-Indo 2020), Deep Learning, Telkom University (Virtually) (Scholarship awarded)
+* Medical Imaging MONAI 2020 bootcamp, (Virtually)
   
-Teaching
+Positions of Responsibility
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+* President, Rotaract Club of GIT, India - June 2016 - june 2017
+  * As President of the club for 350+ members I was responsible to raise funds which were used to donate daily essentials to the underprivileged kids and support a local government school. Delivered lectures in Belgaum regarding ‘How to access the internet’ to the blind kids, based on my previous experience.
+* Charter Secretary, Rotaract Club of GIT, India - June 2015 - June 2016
+  * As a charter Secretary for 300+ members, I was responsible for raising money to donate essentials for children during the winter season, organize blood donation camps and lay a strong foundation of the club.
+* Mozila Firefox Student Ambassador (FSA)
+  * As FSA during my undergraduate studies, I was responsible to raise awareness about privacy while using internet, leaving digital footprints on the internet, how some browsers comprise safety of an individua
+
+Awards
 ======
-* Currently signed in to 43 different slack teams
+* Secured 6th Rank in National Science Talent Search Examination at National level
+* Google Conference Grant for the recent ECCV 2020 Spotlight paper
+* Secured 2nd place at Technical Paper Presentation organized by KLE College,, India
+* Secured 2nd Place at Hackathon organized by KLE College, India
