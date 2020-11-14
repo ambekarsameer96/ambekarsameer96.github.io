@@ -10,9 +10,9 @@ redirect_from:
 
 Hi, I am Sameer Ambekar, Research Assistant at IIT Delhi working in the field of Deep Learning, Computer Vision.  
 
-My work has been published recently at the ECCV 2020 conference as a Spotlight paper. Previously, I was working as a Researcher at Indian Council of Medical Research (ICMR).
+Recently one of my works has been published at the 16th European Conference On Computer Vision, ECCV 2020 conference as a Spotlight paper. Previously, I was working as a Researcher at Indian Council of Medical Research (ICMR).
 
-At IIT Delhi, I am working under the guidance of Prof.Prathosh A.P. Prior to working at IITD, I was working at Indian Council of Medical Research (ICMR) under the guidance of Dr.Subarna Roy (Scientist F), Mr. Pramod Kumar (Scientist C). 
+At IIT Delhi, I am working under the guidance of Prof.Prathosh A.P. and Prof.Jayadeva. Prior to working at IITD, I was working at Indian Council of Medical Research (ICMR) under the guidance of Dr.Subarna Roy (Scientist F), Mr. Pramod Kumar (Scientist C). 
 
 
 *Research Interests: Deep Learning, Computer Vision, Machine Learning* 

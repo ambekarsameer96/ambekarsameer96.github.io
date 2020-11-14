@@ -26,7 +26,7 @@ Research experience
 Skills
 ======
 * Programming Languages : Python , C, C++, Matlab
-* Machine learning / Deep learning : Tensorflow, KEras, PyTorch, numpy
+* Machine learning / Deep learning : Tensorflow, Keras, PyTorch, numpy
 * Computer Vision : OpenCV, PIL 
 * Tools : LaTeX, Google CLoud Platform (GCP), Google Analytics, git, Ubuntu bash scripting
 
