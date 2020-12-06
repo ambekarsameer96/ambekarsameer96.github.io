@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Sameer Ambekar, Research Assistant at IIT Delhi working in the field of Deep Learning, Computer Vision.  
+Hi, I am Sameer Ambekar, Research Assistant at IIT Delhi India working in the field of Deep Learning, Computer Vision.  
 
 Recently one of my works has been published at the 16th European Conference On Computer Vision, ECCV 2020 conference as a Spotlight paper. Previously, I was working as a Researcher at Indian Council of Medical Research (ICMR).
 
