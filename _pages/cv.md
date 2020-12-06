@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* BTech in Computer Science and Engineering, VTU, 2018
+* BE (Bachelor of Engineering) in Computer Science and Engineering, VTU, 2018
 
 Research experience
 ======
@@ -50,7 +50,7 @@ Positions of Responsibility
 * Charter Secretary, Rotaract Club of GIT, India - June 2015 - June 2016
   * As a charter Secretary for 300+ members, I was responsible for raising money to donate essentials for children during the winter season, organize blood donation camps and lay a strong foundation of the club.
 * Mozila Firefox Student Ambassador (FSA)
-  * As FSA during my undergraduate studies, I was responsible to raise awareness about privacy while using internet, leaving digital footprints on the internet, how some browsers comprise safety of an individua
+  * As FSA during my undergraduate studies, I was responsible to raise awareness about privacy while using internet, leaving digital footprints on the internet, how some browsers comprise safety of an individual
 
 Awards
 ======

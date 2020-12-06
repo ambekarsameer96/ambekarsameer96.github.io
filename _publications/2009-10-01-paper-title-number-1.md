@@ -14,5 +14,5 @@ If we can infinitely sample from the generative latent space, then under a dista
 The paper has been accepted as a Spotlight paper (Top 5% of accepted papers) at ECCV 2020.
 
 
-Project page : https://glss-uda.github.io/
-Code : https://github.com/ambekarsameer96/GLSS
+Project page : ![https://glss-uda.github.io/](https://glss-uda.github.io/)
+Code : ![https://github.com/ambekarsameer96/GLSS](https://github.com/ambekarsameer96/GLSS)
