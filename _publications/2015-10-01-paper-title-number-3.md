@@ -7,4 +7,4 @@ venue: ''
 paperurl: ''
 citation: 'Kartikeya Badola, Sameer Ambekar, Himanshu Pant, Sumit Soman, Rajiv Narang, Anuradha Sural, Suresh Chandra, Jayadeva'
 ---
-We introduce a state-of-the-art technique, termed as Twin Augmentation, for modifying popular pre-trained deep learning models. Twin Augmentation boosts the performance of a pre-trained deep neural network without requiring re-training. Experiments show, that across a multitude of classifiers and datasets, Twin augmentation is very effective in boosting the performance of any pre-trained model for binary as well as multi-class classification in imbalanced settings.
+We introduce a state-of-the-art technique, termed as Twin Augmentation, for modifying popular pre-trained deep learning models for imbalance classification. 
