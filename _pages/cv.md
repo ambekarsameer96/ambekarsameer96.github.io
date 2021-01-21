@@ -17,7 +17,6 @@ Research experience
 ======
 * January 2019 : Research Assistant
   * IIT Delhi
-  * Guide: Prof. Prathosh A.P
 
 * June 2018 : Reseacher
   * Indian Council of Medical Research (ICMR)
