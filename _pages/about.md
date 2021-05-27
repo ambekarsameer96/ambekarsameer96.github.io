@@ -17,9 +17,9 @@ Recently, one of Sameer's works has been published at the 16th European Conferen
 
 Prior to working at IITD, Sameer was working at Indian Council of Medical Research (ICMR) under the guidance of Dr.Subarna Roy (Scientist F), Mr. Pramod Kumar (Scientist C).
 
+As a part of my Recreational activity, Sameer likes like to play the Indian Flute. 
 
 *Research Interests: Deep Learning, Computer Vision, Machine Learning* 
 
-As a part of my Recreational activity, Sameer likes like to play the Indian Flute. 
 
 > 'One child, one teacher, one book, one pen can change the world.'
